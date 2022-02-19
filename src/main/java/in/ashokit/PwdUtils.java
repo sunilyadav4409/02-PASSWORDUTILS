@@ -5,5 +5,9 @@ public class PwdUtils {
 	{
 		//code for encode 
 	}
+	public void decode()
+	{
+		//code for decode
+	}
 	
 }
